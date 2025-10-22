@@ -1,0 +1,5 @@
+{
+  "name": "AI Meme Generator",
+  "description": "An AI-powered meme generator that suggests captions, edits images with text prompts, and analyzes photos using the Gemini API.",
+  "requestFramePermissions": []
+}
